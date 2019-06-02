@@ -1,4 +1,4 @@
-# Underwater-Image-Enhancement-via-Style-Transfer
+# Underwater-Image-Enhancement-via-Style-Transfer (CVPR 2019 WORKSHOP)
 This is the official repository for Exemplar Based Underwater Image Enhancement augmented by Wavelet Corrected Transforms.
 Paper got accepted at 2019 CVPR Workshop on Automated Analysis of Marine Video for Environmental Monitoring!
 
