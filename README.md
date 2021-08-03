@@ -10,11 +10,8 @@ To run the code, Git clone - https://github.com/ClovaAI/WCT2
 Follow the instructions provided on that repository to run the code.
 For underwater image datasets - http://irvlab.cs.umn.edu/enhancing-underwater-imagery-using-generative-adversarial-networks
 TURBID dataset - http://amandaduarte.com.br/turbid/
-Check out our results at - https://adarshmj.github.io/page7.html#header2-1d
 
 Providing semantic segmentation maps along with style and content images seems to enhance artistic style transfer, I didnt notice major changes for underwater images. I have also included codes to calculate the SSIM and PSNR values.
-
-
 
 
 To generate semantic segmentation maps you can use the code repository - 
